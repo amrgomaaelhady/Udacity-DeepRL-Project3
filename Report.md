@@ -11,7 +11,7 @@ Note that the entire training took around 50 minutes.
 You will find comments per cell block and comments along the code (ddpg_agent.py and model.py) to explain the implementation. As suggested by Udacity, you can already use their provided code for DDPG and their neural network implementation. Simple adjustments are then made to adapt this code to work with implementation for Unity ml-agent as their initial code is done for Gym environments.
 However, the neural network and hyperparameters needed a lot of tuning as discussed at the end.
 
-Have fun reading through the code and results. I have solved the environment within 1414 Episodes with +0.5 reward averaged over 100 episodes as required. Future plans are discussed at the end of the report.
+Have fun reading through the code and results. I have solved the environment within 1414 Episodes with Self-Play and 828 without Self-Play with +0.5 reward averaged over 100 episodes as required. Future plans are discussed at the end of the report.
 
 # Collaboration and Competition
 
